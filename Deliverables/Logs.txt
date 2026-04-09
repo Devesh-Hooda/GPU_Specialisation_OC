@@ -1,0 +1,134 @@
+--2026-04-09 10:52:14--  https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283010 (276K) [text/plain]
+Saving to: ‘project/src/stb_image.h.1’
+
+stb_image.h.1       100%[===================>] 276.38K  --.-KB/s    in 0.02s   
+
+2026-04-09 10:52:14 (15.5 MB/s) - ‘project/src/stb_image.h.1’ saved [283010/283010]
+
+--2026-04-09 10:52:14--  https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71221 (70K) [text/plain]
+Saving to: ‘project/src/stb_image_write.h.1’
+
+stb_image_write.h.1 100%[===================>]  69.55K  --.-KB/s    in 0.008s  
+
+2026-04-09 10:52:14 (8.21 MB/s) - ‘project/src/stb_image_write.h.1’ saved [71221/71221]
+
+
+!./project/app
+
+Processed: project/data/input/6.2.06.png
+Processed: project/data/input/6.3.01.png
+Processed: project/data/input/4.2.03.png
+Processed: project/data/input/6.3.08.png
+Processed: project/data/input/7.1.01.png
+Processed: project/data/input/6.3.04.png
+Processed: project/data/input/7.1.02.png
+Processed: project/data/input/6.1.15.png
+Processed: project/data/input/4.1.07.png
+Processed: project/data/input/motion03.512.png
+Processed: project/data/input/7.2.01.png
+Processed: project/data/input/motion09.512.png
+Processed: project/data/input/6.2.18.png
+Processed: project/data/input/7.1.08.png
+Processed: project/data/input/6.2.16.png
+Processed: project/data/input/6.1.06.png
+Processed: project/data/input/7.1.05.png
+Processed: project/data/input/6.2.26.png
+Processed: project/data/input/5.2.10.png
+Processed: project/data/input/5.1.12.png
+Processed: project/data/input/6.1.10.png
+Processed: project/data/input/5.1.14.png
+Processed: project/data/input/5.1.11.png
+Processed: project/data/input/7.1.09.png
+Processed: project/data/input/6.2.11.png
+Processed: project/data/input/4.1.02.png
+Processed: project/data/input/4.1.01.png
+Processed: project/data/input/6.2.07.png
+Processed: project/data/input/motion04.512.png
+Processed: project/data/input/motion01.512.png
+Processed: project/data/input/5.2.09.png
+Processed: project/data/input/6.1.04.png
+Processed: project/data/input/ruler.512.png
+Processed: project/data/input/4.1.05.png
+Processed: project/data/input/6.2.09.png
+Processed: project/data/input/7.1.03.png
+Processed: project/data/input/6.2.28.png
+Processed: project/data/input/motion05.512.png
+Processed: project/data/input/7.1.07.png
+Processed: project/data/input/6.2.29.png
+Processed: project/data/input/6.2.31.png
+Processed: project/data/input/6.1.07.png
+Processed: project/data/input/5.2.08.png
+Processed: project/data/input/6.2.22.png
+Processed: project/data/input/6.2.32.png
+Processed: project/data/input/6.1.13.png
+Processed: project/data/input/4.2.06.png
+Processed: project/data/input/4.1.03.png
+Processed: project/data/input/6.2.01.png
+Processed: project/data/input/5.1.10.png
+Processed: project/data/input/4.1.06.png
+Processed: project/data/input/4.1.08.png
+Processed: project/data/input/6.1.01.png
+Processed: project/data/input/6.2.04.png
+Processed: project/data/input/6.2.23.png
+Processed: project/data/input/4.2.05.png
+Processed: project/data/input/6.1.09.png
+Processed: project/data/input/6.2.08.png
+Processed: project/data/input/6.2.24.png
+Processed: project/data/input/6.2.13.png
+Processed: project/data/input/7.1.04.png
+Processed: project/data/input/6.3.07.png
+Processed: project/data/input/house.png
+Processed: project/data/input/6.3.11.png
+Processed: project/data/input/6.3.03.png
+Processed: project/data/input/6.2.10.png
+Processed: project/data/input/motion02.512.png
+Processed: project/data/input/7.1.06.png
+Processed: project/data/input/6.3.10.png
+Processed: project/data/input/6.1.14.png
+Processed: project/data/input/4.2.07.png
+Processed: project/data/input/4.1.04.png
+Processed: project/data/input/6.2.27.png
+Processed: project/data/input/6.2.14.png
+Processed: project/data/input/5.3.02.png
+Processed: project/data/input/6.3.06.png
+Processed: project/data/input/6.2.17.png
+Processed: project/data/input/6.1.02.png
+Processed: project/data/input/6.1.12.png
+Processed: project/data/input/4.2.01.png
+Processed: project/data/input/5.1.09.png
+Processed: project/data/input/6.2.25.png
+Processed: project/data/input/6.2.02.png
+Processed: project/data/input/6.2.19.png
+Processed: project/data/input/6.3.09.png
+Processed: project/data/input/6.2.03.png
+Processed: project/data/input/motion10.512.png
+Processed: project/data/input/motion06.512.png
+Processed: project/data/input/motion07.512.png
+Processed: project/data/input/6.1.08.png
+Processed: project/data/input/6.2.21.png
+Processed: project/data/input/6.1.03.png
+Processed: project/data/input/5.1.13.png
+Processed: project/data/input/6.1.11.png
+Processed: project/data/input/6.2.15.png
+Processed: project/data/input/6.2.20.png
+Processed: project/data/input/6.3.02.png
+Processed: project/data/input/boat.512.png
+Processed: project/data/input/5.3.01.png
+Processed: project/data/input/6.2.30.png
+Processed: project/data/input/6.2.05.png
+Processed: project/data/input/6.2.12.png
+Processed: project/data/input/7.1.10.png
+Processed: project/data/input/motion08.512.png
+Processed: project/data/input/6.1.05.png
+Processed: project/data/input/6.3.05.png
+Processed: project/data/input/gray21.512.png
+Processed: project/data/input/6.1.16.png
+
